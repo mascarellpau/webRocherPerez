@@ -138,13 +138,13 @@
 	.navbar-toggle {
 		margin-top: 20px;
 		margin-bottom: 20px;
-		border: 1px solid #ffcd00 !important;
+		border: 1px solid #4a72b2 !important;
 		border-radius: 0px;
 		background: transparent !important;
 		margin-right: 0px;
 	}
 	.navbar-toggle .icon-bar {
-		background-color: #ffcd00 !important;
+		background-color: #4a72b2 !important;
 	}
 	.main_slider_area .rev_slider .tp-bullets .tp-bullet:hover, .main_slider_area .rev_slider .tp-bullets .tp-bullet.selected {
 		display: none;
@@ -272,7 +272,7 @@
 	}
 	.our_project2_area .our_project_filter li.active a {
 		border: none;
-		color: #ffcd00;
+		color: #4a72b2;
 	}
 	.copy_right_inner .pull-left{
 		float: none !important;
