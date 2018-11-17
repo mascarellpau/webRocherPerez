@@ -634,9 +634,9 @@ iframe {
   color: #fff;
   font-family: "Open Sans", sans-serif;
 }
-
+/* Titulo principal*/
 .main_slider_area .rev_slider .tp-revslider-mainul li .slider_text_box .secand_text {
-  color: #4a72b2;
+  color: #ffffff;
   text-transform: uppercase;
   font-weight: bold !important;
   font-family: "PT Sans", sans-serif;
